@@ -1,8 +1,8 @@
 {
   "name": "npm-collection-explicit-installs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "packages people 'npm install' a lot",
-  "main": "index.js",
+  "main": "meta.json",
   "scripts": {
     "test": "echo hi",
     "postinstall": "backfill"
